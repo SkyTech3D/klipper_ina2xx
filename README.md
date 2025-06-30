@@ -70,6 +70,8 @@ For more details, refer to the [INA226 datasheet (Texas Instruments)](https://ww
 
 After installation and configuration, the INA226 sensor readings will be available in Klipper and can be accessed via macros, Moonraker API, or custom scripts.
 
+Mainsail support coming soon trough a fork!
+
 ## License
 
 MIT License
